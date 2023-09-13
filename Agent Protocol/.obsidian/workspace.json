@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "717e4400d9ad96ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c507d45a3e2babb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c81bac344e586bc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "97b9654f3f34c570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "September 12th Discussion.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628d6ec7f820b5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criticism of Generator Usage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d2b27e78e0fabed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce9e8e4f89bdc611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27358fd3f7fbb1fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bd59a91d325ca67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fdfd892be40cf03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "310cc3aa28c7b5dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "60aabdb3e4851c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978625990c4f60e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "September 12th Discussion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39b290e953aab28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "September 12th Discussion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9e6025b434b1c0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c7e61f6b22e0d49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "September 12th Discussion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97b9654f3f34c570",
+  "lastOpenFiles": [
+    "Criticism of Generator Usage.md",
+    "September 12th Discussion.md",
+    "OpenAPI SDK Generators Review.md",
+    "Testing Suite Issues.md",
+    "Testing Suite Issue - GET Request Only.png",
+    "GraphQL Server SDK List Page Screenshot.png",
+    "GraphQL SDK List.md",
+    "GraphQL Repository Structure.md",
+    "GraphQL GitHub Org Page Screenshot.png",
+    "Criticism of SDK 2.png",
+    "Criticism of SDK 1.png",
+    "AutoGPT Forge Review.md",
+    "SDK Overall Necessity.md",
+    "Pasted image 20230912171207.png",
+    "Plan A.md"
+  ]
+}
